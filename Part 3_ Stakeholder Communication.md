@@ -9,7 +9,5 @@ Implement targeted credit-policy and pricing adjustments for lower grades and es
 Follow-up
 
 A likely stakeholder question is whether the higher interest rates offered to lower grades and longer terms actually compensate for their higher default risk on a net, risk-adjusted basis after expected losses and fees. To answer this, I would prepare a cohort-level expected return analysis by grade×term, using the formula:
-
 expected return = coupon yield − (default rate × LGD) − servicing/origination fees
-
 This would use the same 2007–2015 dataset and default definition, supplemented by recovery/LGD data if available or a documented LGD assumption.
