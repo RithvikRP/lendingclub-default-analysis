@@ -22,4 +22,4 @@ default rate
 LGD
 −
 servicing/origination fees
-coupon yield−default rate×LGD−servicing/origination fees using the same 2007–2015 dataset and charge‑off definition, supplemented by recovery/LGD fields where available or a documented LGD assumption.
+using the same 2007–2015 dataset and charge‑off definition, supplemented by recovery/LGD fields where available or a documented LGD assumption.
